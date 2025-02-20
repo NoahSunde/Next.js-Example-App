@@ -1,3 +1,5 @@
+This is an example app file used for setting up a Next.js example app with AWS Amplify. It works seemlessly, and only requires the basic setup following the AWS Amplify docs for the setup of an AWS Amplify Next.js app.
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
